@@ -76,6 +76,7 @@ public class ProductTests {
         assertThat(pListResp.body().get(0).getId(), equalTo(id));
     }
 
+    //asdasdasd
     @SneakyThrows
     @AfterEach
     void deleteProductTest() {

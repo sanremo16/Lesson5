@@ -19,5 +19,6 @@ public class Product {
     private Integer price;
     @JsonProperty("categoryTitle")
     private String categoryTitle;
+    //qweqweqwe
 }
 
