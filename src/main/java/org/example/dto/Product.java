@@ -20,5 +20,8 @@ public class Product {
     @JsonProperty("categoryTitle")
     private String categoryTitle;
     //qweqweqwe
+    //qwd
+    //qwd
+
 }
 
